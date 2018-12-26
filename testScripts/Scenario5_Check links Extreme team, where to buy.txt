@@ -1,0 +1,12 @@
+Scenario 5 - EXTREME TEAM, WHERE TO BUY:
+https://www.sandisk.com/
+Steps:
+1. Click "EXTREME TEAM" 
+2. Click "WHERE TO BUY" 
+3. Select Region -> Europe
+4. Select Area -> Belarus
+
+Expected result:
+1. Url title should be "SanDisk Extreme team"
+3. Should displayed "To find a store near you, please start by selecting Region and Area"
+4. Should displayed "RESULT FOUND"

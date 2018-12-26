@@ -1,0 +1,15 @@
+Scenario 3 - Add to shopping cart and delete:
+Page: https://www.sandisk.com/
+Steps:
+1. Click "Buy Now" on the first product from the list
+2. Select memory size 32GB
+3. Select "Buy Now"
+4. Click to link "Continue Shopping" on the first product from the list
+5. Click to "Shopping cart" -> "Checkout" -> "Remove"
+
+Expected result:
+1. Should displayed "Product Information"
+2. Should displayed "In stock" or "Out of stock"
+3. Should be clickable the link "Continue Shopping"
+4. Url title should be "SanDisk Online Store"
+5. Should displayed "Your shopping cart is currently empty."

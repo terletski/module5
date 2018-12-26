@@ -1,0 +1,38 @@
+Scenario 1 - Login:
+Page: https://www.sandisk.com/
+
+Positive:
+Steps:
+1. Click to "shop now"
+2. Click to "login"
+3. Fill in the fields "Email Address: testbyeugene@mail.ru", "Password: Eugene-89" 
+4. Click the button "Login"
+
+Expected result:
+1. Should displayed "Login"
+2. Url title should be "SanDisk Online Store - Login"
+3. Login should equil "testbyeugene@mail.ru"
+
+Negative(incorrect email):
+Steps:
+1. Click to "shop now"
+2. Click to "login"
+3. Fill in the fields "Email Address: 1111", "Password: eugene89" 
+4. Click the button "Login"
+
+Expected result:
+1. Should displayed "Login"
+2. Url title should be "SanDisk Online Store - Login"
+3. Should displayed "Enter a valid email address."
+
+Negative(incorrect password):
+Steps:
+1. Click to "shop now"
+2. Click to "login"
+3. Fill in the fields "Email Address: testbyeugene@mail.ru", "Password: 11111" 
+4. Click the button "Login"
+
+Expected result:
+1. Should displayed "Login"
+2. Url title should be "SanDisk Online Store - Login"
+3. Should displayed "Enter a valid password."

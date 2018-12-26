@@ -1,0 +1,58 @@
+Scenario 2 - Sort by Something:
+Page: https://www.sandisk.com/
+Steps:
+1. Click to radio button "Mobile Storage" -> HOST TYPE:
+	"Android" 
+	"iOS"
+	"Windows" 
+2. Click to radio button "Cards and Readers" -> 
+
+	FORM FACTOR: 
+		"SD"
+		"CompactFlash"
+		"microSD"
+		"CFast 2.0"
+		"Readers and Writers"
+	HOST TYPE:
+		"Digital Camera or Camcorder"
+		"Action Camera"
+		"DSLR or Changeable Lens Camera"
+		"Professional Video Camera"
+		"Smartphone or Tablet"
+		"Laptop or Computer"
+		"Dash Cam or Security Camera"
+		"Gaming"
+	USE CASE:
+		"Family Fun Pictures & HD Video"
+		"Fast Action Photography, Video"
+		"4K Ultra HD Video"
+3. Click to radio button "USB" ->
+
+	STYLE:
+		"Metal"
+		"Retractable"
+		"Standard"
+		"Plug and Stay"
+	HOST TYPE
+		"iOS"
+		"Android"
+		"Windows"
+	USE CASE
+		"High Performance Transfer"
+		"Wireless"
+4. Click to radio button "SSD" ->
+
+	FORM FACTOR
+		2.5" Internal
+		mSATA
+		Portable SSD
+		Upgrade Kits
+	USE CASE
+		High Performance
+		Performance for Value
+		On the Go
+		Designed for Video
+		Great for Gaming	
+		
+4. Click to radio button "MP3 Players"
+5. Featured Items
